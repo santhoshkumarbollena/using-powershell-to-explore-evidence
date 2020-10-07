@@ -11,7 +11,17 @@ Assuming there are two users UserA and UserB. UserB will be sharing the public k
 
 ## Professor Suggestion
 
-“crime” with three of your group members and then show how the forth member (or your viewers) could solve the case if they can get access to a perpetrator’s private key?
+“crime” with three of your group members and then show how the forth member (or your viewers) could solve the case if they can get access to a perpetrator’s private key.
+
+## Sub Topic:
+
+- Santhosh Kumar Bollena will be assigned to generate public and private keys and encrypt the crime evidence using others public key.
+
+- Sneha Ojha will be assigned to generate public and private keys and encrypt the crime evidence using others public key.
+
+- Isaac Adesope will be assigned to generate public and private keys and encrypt the crime evidence using others public key.
+
+- Kamal Reddy Donthireddy will be assigned to decrypt the evidence using his own private key. Also Kamal need to send the public key for crime encryption. 
 
 ## GPG intallation steps
 

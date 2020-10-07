@@ -16,25 +16,37 @@ Assuming there are two users UserA and UserB. UserB will be sharing the public k
 ## GPG intallation steps
 
 1. Open powershell window as administrator.
-1. copy and paste the following command
+1. Copy and paste the following command
  ``` 
  $uri = 'https://raw.githubusercontent.com/adbertram/Random-PowerShell-Work/master/Security/GnuPg.psm1'
 $moduleFolderPath = 'C:\Program Files\WindowsPowerShell\Modules\GnuPg'
 $null = New-Item -Path $moduleFolderPath -Type Directory
 Invoke-WebRequest -Uri $uri -OutFile (Join-Path -Path $moduleFolderPath -ChildPath 'GnuPg.psm1')
 ```
-1. Copy and paste the next command:
+1. Copy and paste the next command to get command for gnupg:
 
-``` Get-Command -Module GnuPg | ft -a ```
+``` 
+Get-Command -Module GnuPg | ft -a 
+```
 
-1. TO install gpg use the following command
-``` Install-GnuPG -DownloadFolderPath 'C:\' ```
+1. To install gpg, use the following command
+
+``` 
+Install-GnuPG -DownloadFolderPath 'C:\'
+```
 
 1. Try to execute the gpg command.
-``` gpg ```
+
+``` 
+gpg 
+```
 
 1. If the gpg is not found try to install again with the following command.
-``` Install-GnuPg ```
+
+``` 
+Install-GnuPg
+
+```
 
 1. Try to execute gpg, If the gpg is not found try to close and reopen the powershell then execute the command.
 

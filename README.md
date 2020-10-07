@@ -8,3 +8,11 @@
  
 ## Idea
 Assuming there are two users UserA and UserB. UserB will be sharing the public key to the UserA. Now UserA can generate some data to a file and encrypt the data using the public key of the UserB and send the encrypted file to the UserB. Here, UserB can decrypt the data using the Private key of his own.
+
+## Professor Suggestion
+
+“crime” with three of your group members and then show how the forth member (or your viewers) could solve the case if they can get access to a perpetrator’s private key?
+
+## References
+
+https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/

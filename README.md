@@ -68,7 +68,7 @@ Install-GnuPg
 1. Name,email
 
 ## TO generate public key
-gpg --armor --export bollenasanthosh@gmail.com > san.pub
+gpg --armor --export kamalreddy4195@gmail.com
 
 ## References
 

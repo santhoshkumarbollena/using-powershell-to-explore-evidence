@@ -63,6 +63,9 @@ Install-GnuPg
 ## COmmand to generate keys
 ``` gpg --gen-key ```
 
+## TO generate public key
+gpg --armor --export bollenasanthosh@gmail.com > san.pub
+
 ## References
 
 https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/

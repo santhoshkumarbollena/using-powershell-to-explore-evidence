@@ -72,6 +72,9 @@ Install-GnuPg
 ## TO generate public key
 gpg --armor --export kamalreddy4195@gmail.com
 
+## Adding public key to a file
+gpg --armor --export kamalreddy4195@gmail.com > kamal.pub
+
 ## References
 
 https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/

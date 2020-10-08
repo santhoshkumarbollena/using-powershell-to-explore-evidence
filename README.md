@@ -63,6 +63,10 @@ Install-GnuPg
 ## COmmand to generate keys
 ``` gpg --gen-key ```
 
+1. RSA
+1. 0
+1. Name,email
+
 ## TO generate public key
 gpg --armor --export bollenasanthosh@gmail.com > san.pub
 

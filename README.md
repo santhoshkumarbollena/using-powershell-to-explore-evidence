@@ -70,10 +70,10 @@ Install-GnuPg
 1. Name,email
 
 ## TO generate public key
-gpg --armor --export kamalreddy4195@gmail.com
+``` gpg --armor --export kamalreddy4195@gmail.com ```
 
 ## Adding public key to a file
-gpg --armor --export kamalreddy4195@gmail.com > kamal.pub
+```gpg --armor --export kamalreddy4195@gmail.com > kamal.pub ```
 
 ## References
 

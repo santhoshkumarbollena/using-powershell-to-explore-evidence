@@ -60,6 +60,9 @@ Install-GnuPg
 
 - Try to execute gpg, If the gpg is not found try to close and reopen the powershell then execute the command.
 
+## COmmand to generate keys
+``` gpg --gen-key ```
+
 ## References
 
 https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/

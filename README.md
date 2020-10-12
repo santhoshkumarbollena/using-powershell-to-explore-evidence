@@ -73,6 +73,7 @@ Install-GnuPg
 1. Name,email
 
 ![one](gen-keys-one.PNG)
+-Create a strong passphrase.
 ![two](gen-key-two.PNG)
 
 ## TO generate public key

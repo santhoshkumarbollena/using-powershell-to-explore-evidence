@@ -39,6 +39,8 @@ Invoke-WebRequest -Uri $uri -OutFile (Join-Path -Path $moduleFolderPath -ChildPa
 
 ``` 
 Get-Command -Module GnuPg | ft -a 
+
+![first-command](first-command-PNG)
 ```
 
 - To install gpg, use the following command

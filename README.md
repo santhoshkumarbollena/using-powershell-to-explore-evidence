@@ -72,14 +72,20 @@ Install-GnuPg
 1. 0
 1. Name,email
 
-![one](gen-key-one.PNG)
+![one](gen-keys-one.PNG)
 ![two](gen-key-two.PNG)
 
 ## TO generate public key
 ``` gpg --armor --export kamalreddy4195@gmail.com ```
 
+``` gpg --armor --export osneha5@gmail.com ```
+![three](gen-key-three.PNG)
+
 ## Adding public key to a file
 ```gpg --armor --export kamalreddy4195@gmail.com > kamal.pub ```
+
+```gpg --armor --export osneha5@gmail.com > sneha.pub ```
+![four](gen-key-four.PNG)
 
 ## References
 

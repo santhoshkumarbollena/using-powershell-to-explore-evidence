@@ -49,13 +49,13 @@ Get-Command -Module GnuPg | ft -a
 ``` 
 Install-GnuPG -DownloadFolderPath 'C:\'
 ```
-
+![second](second-command.PNG)
 - Try to execute the gpg command.
 
 ``` 
 gpg 
 ```
-
+![third](third-command.PNG)
 - If the gpg is not found try to install again with the following command.
 
 ``` 

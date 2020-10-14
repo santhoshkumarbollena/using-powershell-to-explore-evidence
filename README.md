@@ -1,4 +1,4 @@
-# using-powershell-to-explore-evidence
+# Using Powershell To Explore Evidence
 
 ## Team Members
  1. Sneha Ojha
@@ -49,13 +49,18 @@ Get-Command -Module GnuPg | ft -a
 ``` 
 Install-GnuPG -DownloadFolderPath 'C:\'
 ```
+
 ![second](second-command.PNG)
+
+
 - Try to execute the gpg command.
 
 ``` 
 gpg 
 ```
+
 ![third](third-command.PNG)
+
 - If the gpg is not found try to install again with the following command.
 
 ``` 
@@ -73,19 +78,23 @@ Install-GnuPg
 1. Name,email
 
 ![one](gen-keys-one.PNG)
+
 -Create a strong passphrase.
+
 ![two](gen-key-two.PNG)
 
 ## TO generate public key
 ``` gpg --armor --export kamalreddy4195@gmail.com ```
 
 ``` gpg --armor --export osneha5@gmail.com ```
+
 ![three](gen-key-three.PNG)
 
 ## Adding public key to a file
 ```gpg --armor --export kamalreddy4195@gmail.com > kamal.pub ```
 
 ```gpg --armor --export osneha5@gmail.com > sneha.pub ```
+
 ![four](gen-key-four.PNG)
 
 ## References

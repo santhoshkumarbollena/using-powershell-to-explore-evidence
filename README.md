@@ -25,6 +25,18 @@ Assuming there are two users UserA and UserB. UserB will be sharing the public k
 
 - Kamal Reddy Donthireddy will be assigned to decrypt the evidence using his own private key. Also Kamal need to send the public key for crime encryption. 
 
+## Advantages of using GpG for encryption.
+
+-GPG was developed by Werner Koch and released in 1999 as an alternative to Symantec's software suite of encryption tools. It's available as a free software download and is based on the Open PGP encryption standards established by the IETF. This ensures that PGP is interoperable with Symantec's PGP tools, as well as Open PGP standards, and can open and unencrypt any PGP and Open PGP standards file.
+
+- GPG (Gnu Privacy Guard) is a system for encryption of data that afterwards can be transmitted through open communication channels and kept in not protected storage. Open communication channels are email, cloud storage, instant messengers, and many others you probably use daily. These tools don’t provide any dependable data protection.
+
+- GPG shield is quite reliable. It’s not possible to hack it using simple tools since it uses 2048-​bit keys and it is very resistant to the most complex hacking algorithms.
+
+- GPG can be used for file signing also
+
+- Another popular solution that follows the Open PGP standard and provides an interface for users to easily encrypt their files.
+
 ## GPG intallation steps
 
 - Open powershell window as administrator.

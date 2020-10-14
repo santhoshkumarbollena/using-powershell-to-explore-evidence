@@ -91,7 +91,12 @@ Install-GnuPg
 ![three](gen-key-three.PNG)
 
 ## Adding public key to a file
+
+- Public Key generation by Kamal
+
 ```gpg --armor --export kamalreddy4195@gmail.com > kamal.pub ```
+
+- Public Key generation by Sneha 
 
 ```gpg --armor --export osneha5@gmail.com > sneha.pub ```
 

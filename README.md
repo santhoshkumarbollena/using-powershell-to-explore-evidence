@@ -39,6 +39,17 @@ Assuming there are two users UserA and UserB. UserB will be sharing the public k
 
 - Another popular solution that follows the Open PGP standard and provides an interface for users to easily encrypt their files.
 
+## Tools Similar To GPG
+
+- Enigmail
+- GPG4win
+- AES crypt
+- Axcrypt
+- Kleopatra
+- Encrypto
+- Cryptor
+- GPG Suite
+
 ## GPG intallation steps
 
 - Open powershell window as administrator.

@@ -127,6 +127,9 @@ Install-GnuPg
 
 ![four](gen-key-four.PNG)
 
+- Public key by isaac
+```gpg --armor --export isaacadesope2018@gmail.com > isaac.pub ```
+
 ## References
 
 https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/

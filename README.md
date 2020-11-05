@@ -133,3 +133,7 @@ Install-GnuPg
 ## References
 
 https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/
+
+
+## Link to video for isaac
+https://use.vg/ViRT7x 

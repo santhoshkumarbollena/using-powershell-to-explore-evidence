@@ -50,7 +50,7 @@ Assuming there are two users UserA and UserB. UserB will be sharing the public k
 - Cryptor
 - GPG Suite
 
-## GPG intallation steps
+## GPG installation steps
 
 - Open powershell window as administrator.
 - Copy and paste the following command
@@ -95,7 +95,7 @@ Install-GnuPg
 
 - Try to execute gpg, If the gpg is not found try to close and reopen the powershell then execute the command.
 
-## COmmand to generate keys
+## Command to generate keys
 ``` gpg --gen-key ```
 
 1. RSA

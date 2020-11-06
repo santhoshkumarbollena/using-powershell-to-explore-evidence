@@ -130,6 +130,14 @@ Install-GnuPg
 - Public key by isaac
 ```gpg --armor --export isaacadesope2018@gmail.com > isaac.pub ```
 
+- Aftre recieving other person public key we need to import to our GPG.
+
+``` gpg --import kamalpub.pub ```
+
+- Now we can encrypt the crime evidence using the following command
+
+``` gpg --encrypt --armor < secretText.txt ```
+
 ## References
 
 https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/

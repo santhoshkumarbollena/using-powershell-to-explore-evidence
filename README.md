@@ -145,5 +145,5 @@ https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/
 
 ## Link to videos:
 
-1. https://use.vg/ViRT7x (Link)[https://use.vg/ViRT7x]
-2. https://app.vidgrid.com/view/qtotlLJtYsPB (Link)[https://app.vidgrid.com/view/qtotlLJtYsPB]
+1. https://use.vg/ViRT7x (Isaac)
+2. https://app.vidgrid.com/view/qtotlLJtYsPB (Santhosh)

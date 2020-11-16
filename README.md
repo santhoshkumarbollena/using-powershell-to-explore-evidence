@@ -147,4 +147,4 @@ Install-GnuPg
 
 1. [https://use.vg/ViRT7x](https://use.vg/ViRT7x) (Isaac)
 2. [https://app.vidgrid.com/view/qtotlLJtYsPB](https://app.vidgrid.com/view/qtotlLJtYsPB) (Santhosh)
-3. https://use.vg/VuN2gu (Sneha)
+3. [https://use.vg/VuN2gu](https://use.vg/VuN2gu) (Sneha)

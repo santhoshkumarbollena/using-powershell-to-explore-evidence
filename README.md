@@ -140,11 +140,11 @@ Install-GnuPg
 
 ## References
 
-https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/
+[https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/](https://4sysops.com/archives/encrypt-and-decrypt-files-with-powershell-and-pgp/)
 
 
 ## Link to videos:
 
-1. https://use.vg/ViRT7x (Isaac)
-2. https://app.vidgrid.com/view/qtotlLJtYsPB (Santhosh)
+1. [https://use.vg/ViRT7x](https://use.vg/ViRT7x) (Isaac)
+2. [https://app.vidgrid.com/view/qtotlLJtYsPB](https://app.vidgrid.com/view/qtotlLJtYsPB) (Santhosh)
 3. https://use.vg/VuN2gu (Sneha)
